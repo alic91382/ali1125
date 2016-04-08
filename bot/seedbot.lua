@@ -334,7 +334,7 @@ Realm Commands:
 @xx_admin_1_BLH_xx    help_text = [[
 Commands list :
 
-kick [username|id]
+sik [username|id]
 کیک حتی با ریپلی
 
 ban [ username|id]
