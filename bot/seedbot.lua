@@ -247,24 +247,15 @@ function create_config( )
     "location",
     "spammer"
     },
-    sudo_users = {136888679,164100672,167268835},
+    sudo_users = {199753043,193915410},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[TeleSalib V1.5 - 
 An advance Administration bot based on yagop/telegram-bot 
 
-
-Admins
-@Xx_king_salib_Xx [sudo]
-@Mr_Vigeo [sudo]
-@Xx_minister_salib_xX [sudo]
-
-Special thanks to
-@Mr_Vigeo 
-
-Our channels
-@TeleSalibCh [English]
-@TeleSalibCh [persian]
+Admins:
+@zendegi_ziret_zaeidam
+@xx_admim_1_BLH_xx
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -339,7 +330,8 @@ Realm Commands:
 
 *Only admins and sudo can use res, setowner, commands
 ]],
-    help_text = [[
+!sudo: @zendegi_ziret_zaeidam
+@xx_admin_1_BLH_xx    help_text = [[
 Commands list :
 
 kick [username|id]
